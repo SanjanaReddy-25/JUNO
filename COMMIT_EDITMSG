@@ -1,0 +1,7 @@
+Update course details and fix faculty association during initial setup
+
+Corrects faculty ID in seed data and populates schedule/room for new courses.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 0028c829-6a43-4938-802c-79a65f94e2cb
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/16250139-4a88-44d2-b073-39330856e3e8/6c115275-fc75-4bc2-96e8-c257813517cc.jpg
